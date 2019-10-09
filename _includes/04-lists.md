@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Hamburgers
+* french fries
+* hot rods (not dogs gotcha there didnt I)
